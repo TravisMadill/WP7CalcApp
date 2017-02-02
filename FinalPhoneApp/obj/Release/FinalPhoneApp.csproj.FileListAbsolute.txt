@@ -1,0 +1,12 @@
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\Bin\Release\ApplicationIcon.png
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\Bin\Release\Background.png
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\Bin\Release\FinalPhoneApp.dll
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\Bin\Release\FinalPhoneApp.pdb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\Bin\Release\AppManifest.xaml
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\Bin\Release\FinalPhoneApp.xap
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\obj\Release\App.g.i.cs
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\obj\Release\MainPage.g.i.cs
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\obj\Release\FinalPhoneApp.g.resources
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\obj\Release\FinalPhoneApp.dll
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\obj\Release\FinalPhoneApp.pdb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalPhoneApp\FinalPhoneApp\obj\Release\XapCacheFile.xml
